@@ -1,3 +1,0 @@
-C:/Programowanie/mini_games/GameOfLife/cmake-build-debug/CMakeFiles/GameOfLife.dir
-C:/Programowanie/mini_games/GameOfLife/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Programowanie/mini_games/GameOfLife/cmake-build-debug/CMakeFiles/rebuild_cache.dir
